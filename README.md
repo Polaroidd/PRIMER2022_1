@@ -1,4 +1,4 @@
-# PRIMER2022_1
+# PRIMER 2022_1
 <img width="870" alt="스크린샷 2023-05-04 113001" src="https://user-images.githubusercontent.com/101031710/236098765-d52b16db-00a0-4273-aa97-08ce17bf1bdd.png">
 
 의생명공학과 학술동아리 PRIMER
