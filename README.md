@@ -7,6 +7,7 @@
 - NUSSINOV ALGORITHM - RNA mapping
 - PSSM BLAST - Seq Alignment
 - DP ALGORITHM - Seq Alignment
+- % of GC Contents
 
 <img width="1267" alt="스크린샷 2023-05-04 113055" src="https://user-images.githubusercontent.com/101031710/236098791-3c911e7c-57ab-430f-9db3-8da07311a6c6.png">
 
